@@ -1,0 +1,35 @@
+@media screen and (max-width: 800px){
+
+    #top-box{
+        background-color: rgb(221, 0, 0);
+        width: 480px;
+        height: 75px;
+    }
+    #top-side-box{
+        height: 150px;
+        width: 480px;
+        background-color: rgb(163, 0, 0);
+        
+    }
+    #c{
+        height: 125px;
+        width: 480px;
+        background-color: rgb(134, 53, 53);
+    }
+    #d{
+        height: 125px;
+        width: 480px;
+        background-color: rgb(134, 53, 53);
+    }
+    #e, #f, #g, #h{
+        display: inline-grid;
+        height: 250px;
+        width: 240px;
+    }
+    
+    #bottom{
+        height: 80px;
+        width: 480px;
+        background-color:rgb(221, 0, 0);
+    }
+}
