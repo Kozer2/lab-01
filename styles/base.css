@@ -3,16 +3,15 @@
     margin: 0 auto;
 }
 
-body {
-    background-color: grey;
-    text-align: center;
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-nav{
-    text-align: left;
-}
-
-
-#e, #f, #g, #h{
-    background-color: white;
-    border: .5px solid black;
+body{
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    /* display:flex; flex-direction:column; justify-content:center;
+    min-height:100vh; */
 }
